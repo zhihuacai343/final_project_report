@@ -1,0 +1,1 @@
+python train.py ./dataset/train/ --mindepth 0.5 --nlabel 64 --pose_init demon --depth_init demon 
